@@ -1,0 +1,30 @@
+.albums {
+    display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 20px;
+text-align: center;
+cursor: pointer;
+
+
+}
+
+.card {
+    background-color: rgb(235, 18, 235);
+    color: white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 10px;
+}
+
+.hide {
+    display: none;
+}
+
+.btn {
+    background-color: black;
+    color: blue;
+}
